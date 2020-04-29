@@ -1,8 +1,6 @@
 ---
 layout: default
-title: openSUSE 101
-redirect_from:
-  - /mentor/index.html
+title: IDP Portal
 ---
 
 {% include header.html %}
@@ -10,25 +8,24 @@ redirect_from:
 <section id="about">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 col-lg-offset-2" id="mentee-guidelines">
-        <h2 class="text-center">Get started with Free Software now!</h2>
+      <div class="col-lg-8 col-lg-offset-2" id="aa">
+        <h2 class="text-center">SUSE community Account Migration</h2>
         <p class="lead">
-          {% include teaser.md %}
+          SUSE is the largest independent open source company.
+          We are now in the process of finalizing this independence also on the technical level.
+          The <em>Community Accounts</em> (a.k.a. Bugzilla Accounts) are now moving from a
+          system provided by our former mother company back to SUSE.
+        </p>
+        <p>
+          After the migration the services using this authentication will be served from our Nuremberg datacenter.
         </p>
         <p class="lead">
-          You have come to the right place! Scroll down and we will connect
-          you with <em>real</em> people from our community who are willing
-          to mentor you doing some <em>real</em> development projects.
-          Get started with Free Software, now!
-        </p>
-        <p class="lead">
-          And if you have questions, we are here to help you! Tweet us at
-          <a href="https://twitter.com/@opensusementors" target="_blank">@opensusementors</a>
-          or write to our
-          <a href="mailto: opensuse-project@opensuse.org">mailing list</a>.
+          On this page we will announce the status of the migration.
+          We will announce <em>when</em> you can expect <em>which</em> service to work with the new authentication system.
+          <em>After</em> services are expected to be available we will publish contact information here for issues that you observe.
         </p>
         <p class="small">
-          {% include more-mentee.html %}
+          {% include more-details.html %}
         </p>
       </div>
     </div>
@@ -132,5 +129,3 @@ redirect_from:
     {% endif %}
 {% endfor %}
 
-{% include mentor.html %}
-{% include mentor_process.html %}

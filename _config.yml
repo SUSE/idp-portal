@@ -2,14 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-title: openSUSE 101
-subTitle: Get started with Free Software now!
-email: cbruckmayer@suse.com
-author: Christian Bruckmayer
-description: The openSUSE Mentoring project collects ideas for programs like Google Summer of Code, Rails Girls Summer of Code or Outreachy
-copyright: 'Copyright &copy; 2015 openSUSE. All Rights Reserved.'
-github_organization: openSUSE
-github_repository: mentoring
+title: SUSE IDP Portal
+subTitle: The Community Accounts Migration
+email: not-yet-published_noreply@example.com
+author: J. Daniel Schmidt
+description: The Community Accounts (aka. Bugzilla Accounts) will migration to the SUSE datacenter in Nuremberg
+copyright: 'Copyright &copy; 2020 SUSE. All Rights Reserved.'
+github_organization: SUSE
+github_repository: idp-portal
 gems:
   - jekyll-redirect-from
 # ----------------------- #
@@ -20,5 +20,5 @@ gems:
 markdown: kramdown
 permalink: pretty
 
-collections:
-- gsoc_current
+#collections:
+#- gsoc_current

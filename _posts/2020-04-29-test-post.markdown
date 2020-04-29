@@ -1,0 +1,11 @@
+---
+layout: default
+img: eos.png
+title: Test post
+type: archive
+technologies: [Bugzilla, Build Service]
+website: https://bugzilla.suse.com
+github: https://gitlab.com/SUSE/
+---
+
+This is just a test posting.

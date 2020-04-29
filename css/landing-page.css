@@ -31,18 +31,18 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+/*    background: url(../img/intro-bg.jpg) no-repeat center center; */
     background-size: cover;
 }
 
 .intro-header-gsoc {
-  background: url(../img/gsoc/intro-bg.jpg) no-repeat center center;
+/*  background: url(../img/gsoc/intro-bg.jpg) no-repeat center center; */
   background-size: cover;
   color: #73ba25;
 }
 
 .intro-header-mentor {
-  background: url(../img/mentor-intro-bg.jpg) no-repeat center center;
+/*  background: url(../img/mentor-intro-bg.jpg) no-repeat center center; */
   background-size: cover;
   color: #73ba25;
 }
