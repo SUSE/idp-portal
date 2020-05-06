@@ -109,7 +109,7 @@ h6 {
     padding: 40px 0 20px;
 }
 
-dt dd {
+dt, dd {
   font-size: 18px;
 }
 
