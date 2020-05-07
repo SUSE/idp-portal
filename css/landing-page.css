@@ -133,6 +133,18 @@ table thead {
   background-color: #C2F8BC;
 }
 
+td.red {
+  background-color: #ff8c92;
+}
+
+td.yellow {
+  background-color: #f7e8ab;
+}
+
+td.green {
+  background-color: #C2F8BC;
+}
+
 
 section {
   padding: 20px 0 20px;
