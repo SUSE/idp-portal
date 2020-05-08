@@ -134,6 +134,10 @@ table thead {
   background-color: #C2F8BC;
 }
 
+td.blue {
+  background-color: #bcd8f8;
+}
+
 td.red {
   background-color: #ff8c92;
 }
